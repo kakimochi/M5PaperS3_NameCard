@@ -2,6 +2,12 @@
 
 A digital business card display system for the M5Paper S3 e-paper device. This project creates an elegant, low-power digital name card that displays personal information, avatar image, and QR code on a 540x960 pixel e-paper display.
 
+## Demo
+
+![M5PaperS3 NameCard Demo](demo_image.jpg)
+
+**Project completion post**: [X (Twitter) - @crazybocan](https://x.com/crazybocan/status/1872445303632343306)
+
 ## Features
 
 - Static name card display on e-paper screen
